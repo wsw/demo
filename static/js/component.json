@@ -1,0 +1,8 @@
+{
+  "name": "my_project",
+  "version": "0.0.1",
+  "dependencies": {
+    "component/jquery": "1.0.0",
+    "gazira/action": "master"
+  }
+}
